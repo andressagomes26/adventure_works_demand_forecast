@@ -15,5 +15,5 @@ Neste projeto, é realizada a previsão de demanda dos produtos da indústria de
 
 ## Arquivos
 
-* Notebook de Desenvolvimento de Previsão de Demanda: *[demand_forecast.ipynb](https://github.com/andressagomes26/adventure_works_demand_forecast/blob/main/demand_forecast_new.ipynb)*.
+* Notebook de Desenvolvimento de Previsão de Demanda: *[demand_forecast.ipynb](https://github.com/andressagomes26/adventure_works_demand_forecast/blob/main/demand_forecast.ipynb)*.
 * A Transformação dos Dados utilizados nesse notebook pode ser encontrada no repositório: *[adventure_works_analytics](https://github.com/andressagomes26/adventure_works_demand_forecast/blob/main/demand_forecast_new.ipynb)*.
